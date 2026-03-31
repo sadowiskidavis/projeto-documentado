@@ -1,18 +1,48 @@
 # Sistema de Farmácia
 
-Projeto simples de farmácia para controlar produtos.
+Esse projeto é um sistema simples de farmácia feito para ajudar no controle básico de produtos e organização.
 
-## Tecnologias
+##  Sobre
+
+A ideia do sistema é simular uma farmácia, onde dá pra visualizar produtos e ter um controle simples de estoque.
+
+##  Tecnologias usadas
 
 - HTML
 - Git
 - GitHub
 
-## Como usar
+##  Funcionalidades
 
-1. Baixar o projeto
-2. Abrir o index.html no navegador
+- Visualização de produtos
+- Controle básico de estoque 
+- Interface simples
 
-## Licença
+##  Como usar
+
+1. Clone o repositório:
+git clone https://github.com/sadowiskidavis/projeto-documentado.git
+
+2. Entre na pasta:
+cd projeto-documentado
+
+3. Abra o arquivo:
+index.html
+
+##  Estrutura
+
+- index.html → página principal
+- README.md → documentação
+
+##  Possíveis melhorias
+
+- Adicionar sistema de vendas
+- Criar cadastro de produtos
+- Melhorar o visual com CSS
+- Usar JavaScript para deixar dinâmico
+
+##  Licença
 
 MIT
+
+Projeto para fins de estudo
