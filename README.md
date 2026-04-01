@@ -31,8 +31,9 @@ index.html
 
 ##  Estrutura
 
-- index.html → página principal
-- README.md → documentação
+- index.html 
+- README.md     
+- LICENSE 
 
 ##  Possíveis melhorias
 
@@ -43,6 +44,4 @@ index.html
 
 ##  Licença
 
-MIT
-
-Projeto para fins de estudo
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
